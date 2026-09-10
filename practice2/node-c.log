@@ -1,0 +1,40 @@
+2024-01-15T08:04:00Z WARN auth 326 user login succeeded
+2024-01-15T08:04:03Z WARN auth 493 logout ok
+2024-01-15T08:04:06Z INFO inventory 63 count synced
+2024-01-15T08:04:09Z ERROR auth 195 user login succeeded
+2024-01-15T08:04:12Z DEBUG inventory 696 restock applied
+garbage line with no structure at all here
+2024-01-15T08:04:18Z DEBUG cart 588 item removed
+2024-01-15T08:04:21Z WARN inventory 45 count synced
+2024-01-15T08:04:24Z INFO auth 678 logout ok
+2024-01-15T08:04:27Z WARN inventory 328 sku not found
+2024-01-15T08:04:30Z WARN payments 738 card declined
+2024-01-15T08:04:33Z INFO payments 410 refund issued
+2024-01-15T08:04:36Z INFO search 328 query executed
+2024-01-15T08:04:39Z INFO auth 641 logout ok
+2024-01-15T08:04:42Z DEBUG auth 555 token refreshed
+2024-01-15T08:04:45Z INFO inventory 140 sku not found
+2024-01-15T08:04:48Z INFO auth 383 invalid password attempt
+2024-01-15T08:04:51Z INFO payments 561 card declined
+2024-01-15T08:04:54Z ERROR inventory 674 count synced
+2024-01-15T08:04:57Z WARN auth 572 invalid password attempt
+2024-01-15T08:05:00Z INFO auth 275 user login succeeded
+2024-01-15T08:05:03Z WARN auth 571 token refreshed
+2024-01-15T08:05:06Z INFO search 624 index warm hit
+2024-01-15T08:05:09Z INFO search 708 slow query detected
+2024-01-15T08:05:12Z INFO inventory 262 stock decremented
+2024-01-15T08:05:15Z WARN auth 438 invalid password attempt
+2024-01-15T08:05:18Z DEBUG auth 346 token refreshed
+2024-01-15T08:05:21Z INFO search 764 cache miss
+2024-01-15T08:05:24Z WARN inventory 442 count synced
+2024-01-15T08:05:27Z DEBUG auth 82 token refreshed
+2024-01-15T08:05:30Z DEBUG inventory 383 count synced
+2024-01-15T08:05:33Z INFO inventory 445 restock applied
+2024-01-15T08:05:36Z INFO auth 378 user login succeeded
+2024-01-15T08:05:39Z INFO search 703 index warm hit
+2024-01-15T08:05:42Z INFO auth 578 session expired
+2024-01-15T08:05:45Z WARN inventory 163 restock applied
+2024-01-15T08:05:48Z ERROR payments 186 webhook received
+2024-01-15T08:05:51Z INFO auth 759 invalid password attempt
+2024-01-15T08:05:54Z ERROR cart 690 item removed
+2024-01-15T08:05:57Z INFO search 723 query executed

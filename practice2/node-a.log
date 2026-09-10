@@ -1,0 +1,40 @@
+2024-01-15T08:00:00Z DEBUG auth 764 invalid password attempt
+2024-01-15T08:00:03Z INFO payments 147 charge captured
+2024-01-15T08:00:06Z DEBUG inventory 609 reservation held
+2024-01-15T08:00:09Z DEBUG auth 100 token refreshed
+2024-01-15T08:00:12Z WARN payments 621 charge captured
+2024-01-15T08:00:00Z INFO auth notanumber user login succeeded
+2024-01-15T08:00:18Z INFO inventory 738 count synced
+2024-01-15T08:00:21Z INFO cart 464 cart abandoned
+2024-01-15T08:00:24Z ERROR search 11 index warm hit
+2024-01-15T08:00:27Z INFO cart 289 item removed
+2024-01-15T08:00:30Z ERROR payments 349 charge captured
+2024-01-15T08:00:33Z INFO auth 104 invalid password attempt
+2024-01-15T08:00:36Z WARN search 275 query executed
+2024-01-15T08:00:39Z WARN cart 132 checkout started
+2024-01-15T08:00:42Z WARN auth 305 logout ok
+2024-01-15T08:00:45Z WARN search 201 query executed
+2024-01-15T08:00:05Z INFO
+2024-01-15T08:00:51Z WARN auth 238 invalid password attempt
+2024-01-15T08:00:54Z ERROR auth 243 user login succeeded
+2024-01-15T08:00:57Z INFO cart 469 cart merged
+2024-01-15T08:01:00Z INFO payments 368 refund issued
+2024-01-15T08:01:03Z WARN search 704 query executed
+2024-01-15T08:01:06Z WARN inventory 180 count synced
+2024-01-15T08:01:09Z INFO payments 478 webhook received
+2024-01-15T08:01:12Z WARN search 709 results returned
+2024-01-15T08:01:15Z WARN payments 337 charge captured
+2024-01-15T08:01:18Z ERROR payments 37 card declined
+2024-01-15T08:01:21Z INFO cart 72 item removed
+2024-01-15T08:01:24Z WARN inventory 327 restock applied
+2024-01-15T08:01:27Z INFO cart 663 checkout started
+2024-01-15T08:01:30Z INFO payments 147 refund issued
+2024-01-15T08:01:33Z WARN inventory 274 count synced
+2024-01-15T08:01:36Z WARN cart 413 cart merged
+2024-01-15T08:01:39Z INFO payments 526 webhook received
+2024-01-15T08:01:42Z ERROR auth 53 user login succeeded
+2024-01-15T08:01:45Z WARN payments 168 webhook received
+2024-01-15T08:01:48Z DEBUG inventory 399 reservation held
+2024-01-15T08:01:51Z INFO inventory 546 sku not found
+2024-01-15T08:01:54Z ERROR inventory 16 stock decremented
+2024-01-15T08:01:57Z ERROR inventory 278 sku not found

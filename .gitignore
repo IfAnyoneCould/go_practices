@@ -1,0 +1,30 @@
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary and coverage output
+*.test
+*.out
+coverage.txt
+
+# Go workspace file (usually machine-specific)
+go.work
+go.work.sum
+
+# Output of `go build` — bare binaries have no extension, so ignore
+# your project's binary by name, or use a bin/ convention:
+/bin/
+
+# IDE / editor
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
